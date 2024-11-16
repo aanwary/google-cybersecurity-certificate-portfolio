@@ -28,3 +28,6 @@ The Google Cybersecurity Professional Certificate is a comprehensive program tha
 
 - **[File Permissions Project: Linux](identity-and-access-management/file-permissions-linux-project.md)**  
   💻 A demonstration of Linux file permission management, including setting and updating file permissions to secure access. This project involved checking existing permissions, modifying them as needed, and validating the changes to meet security requirements.
+
+- **[Vulnerability Assessment Report](security-assessment-and-testing/vulnerability-assessment-report.md)**  
+  🔍 A comprehensive vulnerability assessment of a company’s database server, focusing on access controls and potential risks. The report includes a risk assessment, analysis of vulnerabilities, and remediation strategies to enhance system security and prevent unauthorized access.
