@@ -8,6 +8,9 @@ The Google Cybersecurity Professional Certificate is a comprehensive program tha
 
 ## 📂 Project Navigation
 
+- **[NIST CSF: Distributed Denial Of Service (DDoS) Attack Incident Analysis Project](network-security/ddos-attack-csf-analysis-project.md)**  
+  🔍 A comprehensive analysis of a recent DDoS attack, utilizing the NIST Cybersecurity Framework to evaluate and improve network security measures.
+
 - **[Internal Security Audit: Botium Toys](security-assessment-and-testing/internal-security-audit-project.md)**  
   📝 An assessment of the current security posture of Botium Toys, evaluation of existing controls, and examination of compliance with relevant standards. The audit aims to identify vulnerabilities, recommend improvements, and enhance the overall security framework.
 
@@ -19,9 +22,6 @@ The Google Cybersecurity Professional Certificate is a comprehensive program tha
 
 - **[Denial of Service (DoS) Attacks Report](network-security/dos-attacks-report.md)**  
   🌐 An analysis of DoS attacks, including network protocols involved and remediation recommendations.
-
-- **[Distributed Denial Of Service (DDoS) Attack Incident Analysis Project](network-security/ddos-attack-csf-analysis-project.md)**  
-  🔍 A comprehensive analysis of a recent DDoS attack, utilizing the NIST Cybersecurity Framework to evaluate and improve network security measures.
 
 - **[Access Control Incident Analysis: User Deprovisioning](identity-and-access-management/access-control-incident-analysis.md)**  
   🔐 An investigation into an access control incident related to user de-provisioning, highlighting expired contractor access and shared account use. This report offers key recommendations for implementing account expiration policies, enforcing role-based access, and adding multi-factor authentication.
